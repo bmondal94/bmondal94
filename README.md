@@ -4,7 +4,7 @@
 - **Research topic: 'Strain induced electronic properties analysis in III-V semiconductors.'**
 - **Project supervisor: Prof. Ralf Tonner, Physikalische unde Theoretische Chemie, Universitat Leipzig, Germany**
 - 📫 How to reach me badalmondal.chembgc@gmail.com
-- Status: Looking for **Postdoctoral, Research assistance, Scientific assistance position in theoretical/computational solid state chemistry/physics from middle of 2022**.
+<!--- - Status: Looking for **Postdoctoral, Research assistance, Scientific assistance position in theoretical/computational solid state chemistry/physics from middle of 2022**.--->
 - Linkedl: https://www.linkedin.com/in/badal-mondal-5a3522149
 
 <!---
